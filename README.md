@@ -1,5 +1,7 @@
 ### Hi there 👋
+- 🌱 I’m currently learning javascript !
 
+visit my website : https://www.jbco.fr
 <!--
 **mojinet/mojinet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
