@@ -1,8 +1,10 @@
 ### Hi there 👋
 
 -🌱 I’m currently learning javascript !
+
 -⚡ finish first app with javaEE with @Akcel77 @LoaneNgy & @floriane73
-![enchere](https://user-images.githubusercontent.com/21148133/123301221-b73d1900-d51b-11eb-96d4-2a02e8f0c6ab.jpg)
+![projet1](https://user-images.githubusercontent.com/21148133/123556261-76970700-d78a-11eb-9216-0b09150acbce.png)
+
 
 visit my website : https://www.jbco.fr
 <!--
