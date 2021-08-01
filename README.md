@@ -1,6 +1,6 @@
 ### Hi there 👋
 
--🌱 I’m currently learning symfony !
+-🌱 I’m currently learning symfony ans vue.js 3 
 
 -⚡ finish first app with javaEE with @Akcel77 @LoaneNgy & @floriane73
 ![projet1](https://user-images.githubusercontent.com/21148133/123556261-76970700-d78a-11eb-9216-0b09150acbce.png)
