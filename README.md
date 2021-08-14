@@ -2,7 +2,7 @@
 
 -🌱 I’m currently learning symfony ans vue.js 3 
 
--⚡ finish project with symfony 5.2 ! congrats to @@Akcel77 and @Niiks
+-⚡ finish project with symfony 5.2 ! congrats to @Akcel77 and @Niiks
 ![projet2min](https://user-images.githubusercontent.com/21148133/129439231-65a87dc1-7ed3-4837-b352-48463475337e.png)
 
 visit my website : https://www.jbco.fr
