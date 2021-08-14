@@ -3,7 +3,12 @@
 -🌱 I’m currently learning symfony ans vue.js 3 
 
 -⚡ finish first app with javaEE with @Akcel77 @LoaneNgy & @floriane73
-![projet1](https://user-images.githubusercontent.com/21148133/123556261-76970700-d78a-11eb-9216-0b09150acbce.png)
+![projet1min](https://user-images.githubusercontent.com/21148133/129439228-cd18a039-cf04-4c44-ad6e-afc286a2f48f.png)
+
+-⚡ finish project with symfony 5.2 ! congrats to @@Akcel77 and @Niiks
+![projet2min](https://user-images.githubusercontent.com/21148133/129439231-65a87dc1-7ed3-4837-b352-48463475337e.png)
+
+
 
 
 visit my website : https://www.jbco.fr
