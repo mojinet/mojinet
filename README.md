@@ -1,9 +1,6 @@
 ### Hi there 👋
 visit my website : https://www.cojb.fr
 
--🌱 I’m currently learning symfony & prestashop
-
-
 <!--
 **mojinet/mojinet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
