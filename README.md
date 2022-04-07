@@ -1,7 +1,7 @@
 ### Hi there 👋
 visit my website : https://www.cojb.fr
 
-### Portfolio
+### My works
 #### E-Commerce
 * https://parakletosfrance.com/ ```2022```  ```Child-theme``` ```SASS``` ```Prestashop``` ```MySQL```
 * https://lng-art.fr/ ```2022``` ```SASS``` ```Child-theme``` ```Prestashop``` ```MySQL```
@@ -22,6 +22,10 @@ visit my website : https://www.cojb.fr
 * Design ```Figma``` ```Photoshop``` ```Adobe xD```
 * Tech ```HTML/CSS``` ```SASS``` ```JS``` ```Symfony 4&5``` ```Prestashop```  ```MySQL``` ```Git```
 * IDE ```PhpStorm``` ```Visual code``` 
+
+### diplomas
+* 2016 : Technicien supérieur reseaux informatique ```Niveau bac+2```
+* 2021 : Développeur web et web mobile ```Niveau bac+2```
 
 👉 I’m currently working on JS/Node/React : https://github.com/mojinet/Learning
 <!--
