@@ -1,6 +1,8 @@
-## Hi !
-I develop my skills in order to become a full-stack blockchain developer
-### My works
+## 🎯 About
+Hi ! I'm developper and i develop my skills in order to become a full-stack blockchain developer  
+👉 I’m currently working on JS/Node/React : https://github.com/mojinet/Learning
+
+## 🌐 My works
 ```2022``` ```E-Commerce```  https://parakletosfrance.com/   ```Child-theme``` ```SASS``` ```Prestashop``` ```MySQL```  
 ```2022``` ```E-Commerce``` https://lng-art.fr/ ```SASS``` ```Child-theme``` ```Prestashop``` ```MySQL```  
 ```2021``` ```App``` http://www.whoisflag.com/ ```Desgin``` ```SASS``` ```Symfony``` ```MySQL```  
@@ -9,12 +11,11 @@ I develop my skills in order to become a full-stack blockchain developer
 ```2022``` ```Simple``` https://peasfamily.com/  ```Desgin``` ```SASS```  
 ```2019``` ```Simple``` http://hazpiq.com/  ```HTML/CSS```
 
-### Competences
-Design ```Figma``` ```Photoshop``` ```Adobe xD```  
-Tech ```HTML/CSS``` ```SASS``` ```JS``` ```Symfony 4&5``` ```Prestashop```  ```MySQL``` ```Git```  
+## 🏆 Competences
+Tech ```HTML/CSS``` ```SASS``` ```JS``` ```Symfony 4&5``` ```Prestashop```  ```MySQL``` ```Git``` 
+Design ```Figma``` ```Photoshop``` ```Adobe xD```   
 IDE ```PhpStorm``` ```Visual code``` 
 
-👉 I’m currently working on JS/Node/React : https://github.com/mojinet/Learning
 <!--
 **mojinet/mojinet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
