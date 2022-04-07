@@ -12,7 +12,7 @@ Hi ! I'm developper and i develop my skills in order to become a full-stack bloc
 ```2019``` ```Simple``` http://hazpiq.com/  ```HTML/CSS```
 
 ## 🏆 Competences
-Tech ```HTML/CSS``` ```SASS``` ```JS``` ```Symfony 4&5``` ```Prestashop```  ```MySQL``` ```Git``` 
+Tech ```HTML/CSS``` ```SASS``` ```JS``` ```Symfony 4&5``` ```Prestashop```  ```MySQL``` ```Git```  
 Design ```Figma``` ```Photoshop``` ```Adobe xD```   
 IDE ```PhpStorm``` ```Visual code``` 
 
