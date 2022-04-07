@@ -1,6 +1,4 @@
-### Hi there 👋
-visit my website : https://www.cojb.fr
-
+## Hi there 👋
 ### My works
 #### E-Commerce
 * https://parakletosfrance.com/ ```2022```  ```Child-theme``` ```SASS``` ```Prestashop``` ```MySQL```
