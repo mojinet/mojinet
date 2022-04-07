@@ -1,30 +1,18 @@
-## Hi there 👋
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+## Hi !
+I develop my skills in order to become a full-stack blockchain developer
 ### My works
-#### E-Commerce
-* https://parakletosfrance.com/ ```2022```  ```Child-theme``` ```SASS``` ```Prestashop``` ```MySQL```
-* https://lng-art.fr/ ```2022``` ```SASS``` ```Child-theme``` ```Prestashop``` ```MySQL```
-
-#### App
-* http://www.whoisflag.com/ ```2021``` ```Desgin``` ```SASS``` ```Symfony``` ```MySQL```
-* https://cseterritoiremoulins.fr/ ```2020``` ```Desgin``` ```SASS``` ```PHP``` ```MySQL```
-
-#### Simple
-* https://www.cojb.fr ```2021``` ```Desgin``` ```SASS``` ```React```
-* https://peasfamily.com/  ```2022``` ```Desgin``` ```SASS```
-* http://hazpiq.com/  ```2019``` ```HTML/CSS```
-
-#### Web3
-* Coming soon : PeasFamily.com ```Node.js``` ```React``` ```web3.js```
+```2022``` ```E-Commerce```  https://parakletosfrance.com/   ```Child-theme``` ```SASS``` ```Prestashop``` ```MySQL```  
+```2022``` ```E-Commerce``` https://lng-art.fr/ ```SASS``` ```Child-theme``` ```Prestashop``` ```MySQL```  
+```2021``` ```App``` http://www.whoisflag.com/ ```Desgin``` ```SASS``` ```Symfony``` ```MySQL```  
+```2020``` ```App``` https://cseterritoiremoulins.fr/ ```Desgin``` ```SASS``` ```PHP``` ```MySQL```  
+```2021``` ```Simple``` https://www.cojb.fr ```Desgin``` ```SASS``` ```React```  
+```2022``` ```Simple``` https://peasfamily.com/  ```Desgin``` ```SASS```  
+```2019``` ```Simple``` http://hazpiq.com/  ```HTML/CSS```
 
 ### Competences
-* Design ```Figma``` ```Photoshop``` ```Adobe xD```
-* Tech ```HTML/CSS``` ```SASS``` ```JS``` ```Symfony 4&5``` ```Prestashop```  ```MySQL``` ```Git```
-* IDE ```PhpStorm``` ```Visual code``` 
-
-### diplomas
-* 2016 : Technicien supérieur reseaux informatique ```Niveau bac+2```
-* 2021 : Développeur web et web mobile ```Niveau bac+2```
+Design ```Figma``` ```Photoshop``` ```Adobe xD```  
+Tech ```HTML/CSS``` ```SASS``` ```JS``` ```Symfony 4&5``` ```Prestashop```  ```MySQL``` ```Git```  
+IDE ```PhpStorm``` ```Visual code``` 
 
 👉 I’m currently working on JS/Node/React : https://github.com/mojinet/Learning
 <!--
