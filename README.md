@@ -3,16 +3,16 @@ visit my website : https://www.cojb.fr
 
 ### Portfolio
 #### E-Commerce
-* https://parakletosfrance.com/ ```2022```  ```SASS``` ```Prestashop``` ```MySQL```
-* https://lng-art.fr/ ```2022``` ```SASS``` ```Prestashop``` ```MySQL```
+* https://parakletosfrance.com/ ```2022```  ```Child-theme``` ```SASS``` ```Prestashop``` ```MySQL```
+* https://lng-art.fr/ ```2022``` ```SASS``` ```Child-theme``` ```Prestashop``` ```MySQL```
 
 #### App
-* http://www.whoisflag.com/ ```2021``` ```SASS``` ```Symfony``` ```MySQL```
-* https://cseterritoiremoulins.fr/ ```2020``` ```SASS``` ```PHP``` ```MySQL```
+* http://www.whoisflag.com/ ```2021``` ```Desgin``` ```SASS``` ```Symfony``` ```MySQL```
+* https://cseterritoiremoulins.fr/ ```2020``` ```Desgin``` ```SASS``` ```PHP``` ```MySQL```
 
 #### Simple
-* https://www.cojb.fr ```2021``` ```SASS``` ```React```
-* https://peasfamily.com/  ```2022``` ```SASS```
+* https://www.cojb.fr ```2021``` ```Desgin``` ```SASS``` ```React```
+* https://peasfamily.com/  ```2022``` ```Desgin``` ```SASS```
 * http://hazpiq.com/  ```2019``` ```HTML/CSS```
 
 #### Web3
