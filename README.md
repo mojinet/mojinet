@@ -1,6 +1,6 @@
 ## 🎯 About
 Hi ! I'm developper and i develop my skills  
-👉 I’m currently working on JS/Node/React : https://github.com/mojinet/Learning
+👉 I’m currently working on JS/PHP : https://github.com/mojinet/Learning
 
 ## 🌐 My works
 ```2022``` ```E-Commerce```  https://parakletosfrance.com/   ```Child-theme``` ```SASS``` ```Prestashop``` ```MySQL```  
