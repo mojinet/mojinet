@@ -1,5 +1,5 @@
 ## 🎯 About
-Hi ! I'm developper and i develop my skills in order to become a full-stack blockchain developer  
+Hi ! I'm developper and i develop my skills  
 👉 I’m currently working on JS/Node/React : https://github.com/mojinet/Learning
 
 ## 🌐 My works
