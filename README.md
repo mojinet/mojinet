@@ -1,6 +1,7 @@
 ## 🎯 About
 Hi ! I'm developper and i develop my skills  
-👉 I’m currently working on JS/PHP : https://github.com/mojinet/Learning
+👉 I’m currently working on JS/PHP : https://github.com/mojinet/Learning  
+👉 I’m currently working on secret project : TBA  
 
 ## 🌐 My works
 ```2022``` ```App```  Coming soon   ```Desgin``` ```React``` ```Symfony 5``` ```API Platform```  ```MySQL```    
