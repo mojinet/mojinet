@@ -3,7 +3,7 @@ Hi ! I'm developper and i develop my skills
 👉 I’m currently working on JS/PHP : https://github.com/mojinet/Learning
 
 ## 🌐 My works
-```2022``` ```App```  coming soon   ```Desgin``` ```React``` ```Symfony 5``` ```MySQL```  
+```2022``` ```App```  Coming soon   ```Desgin``` ```React``` ```Symfony 5``` ```API Platform```  ```MySQL```  
 ```2022``` ```E-Commerce```  https://parakletosfrance.com/   ```Child-theme``` ```SASS``` ```Prestashop``` ```MySQL```  
 ```2022``` ```E-Commerce``` https://lng-art.fr/ ```SASS``` ```Child-theme``` ```Prestashop``` ```MySQL```  
 ```2021``` ```App``` http://www.whoisflag.com/ ```Desgin``` ```SASS``` ```Symfony``` ```MySQL```  
